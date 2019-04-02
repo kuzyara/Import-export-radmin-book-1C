@@ -2,7 +2,7 @@
 Реверс-инжиниринг бинарного формата файла адресной книги радмин *.rpb
 * управляемые формы
 * Radmin viewer 3.5
-* csv extension file format
+* csv export/import extension file format
 
 Попытка создания сборщика хостов у коллег-админов.
 
