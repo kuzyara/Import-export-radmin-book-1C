@@ -4,4 +4,6 @@
 * Radmin viewer 3.5
 * csv extension file format
 
+https://infostart.ru/public/544700/
+
 ![image](https://github.com/kuzyara/Import-export-radmin-book-1C/blob/master/2019-04-02_08-48-18.png?raw=true)
